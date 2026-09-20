@@ -1,0 +1,16 @@
+feature,importance
+remainder__session_duration_sec,0.26298636040836537
+remainder__session_duration_min,0.2418757930778847
+cat__MFA_status_YES,0.15011229053145161
+cat__MFA_status_NO,0.08194221624882267
+cat__MFA_status_FAILED,0.035660333402772554
+cat__auth_result_SUCCESS,0.0258235639110428
+cat__auth_result_FAILURE,0.024503657408623144
+remainder__hour,0.01712605481000421
+cat__new_device_NO,0.014742977869004048
+cat__off_hours_NO,0.014679447943852562
+cat__new_device_YES,0.014352719978683794
+remainder__day_of_week,0.012646872156549811
+cat__off_hours_YES,0.008419878889501168
+cat__access_zone_YARD-C,0.004787435937767424
+cat__account_id_ACC0031,0.004358559795688866
