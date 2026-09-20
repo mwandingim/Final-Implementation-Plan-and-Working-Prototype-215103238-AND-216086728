@@ -1,0 +1,6 @@
+ATT&CK for ICS technique,T21 evidence basis,Evidence reference,limitation
+External Remote Services,Remote vendor access is represented in the synthetic VPN/IAM evidence.,INC-T21-001 / VPN-IAM,Contextual match; not proof of adversary technique use.
+Valid Accounts,The incident scenario concerns anomalous use of a vendor account.,INC-T21-001 / VPN-IAM,Contextual match; the dataset does not establish how credentials were obtained.
+Remote Services,Endpoint/network evidence includes simulated remote-administration activity.,INC-T21-001 / Endpoint + Network,Contextual match to the observed behaviour.
+Change Program State,OT evidence records PLC mode/state changes during the incident window.,INC-T21-001 / OT-SCADA,Relevant ICS technique context; synthetic event does not establish a real-world adversary.
+Modify Parameter,OT evidence contains abnormal command/process-state changes.,INC-T21-001 / OT-SCADA,Contextual enrichment only; command semantics are synthetic.

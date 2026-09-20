@@ -1,0 +1,5 @@
+feedback_area,lesson_from_analysis,collection_or_detection_change
+Detection,Cross-source correlation identified a stronger signal than any single source.,Retain correlated identity + endpoint + OT + network + physical + cargo fields in collection.
+Access,Vendor access anomalies were central to the primary investigation.,"Prioritise MFA status, device novelty, access zone and off-hours features."
+OT,Invalid command sequences provided operational context.,Collect command sequence validity and process-state transitions for future analytics.
+Business integrity,Cargo-manifest change added business impact context.,Continue collecting manifest-change events for incident correlation.
