@@ -1,0 +1,2 @@
+n_sessions,flagged_anomalies,flag_rate_pct,posthoc_precision,posthoc_recall,posthoc_f1,contamination_parameter,n_estimators,random_seed
+1800,90,5.0,0.9222,0.783,0.8469,0.05,300,210821
