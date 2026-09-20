@@ -1,0 +1,6 @@
+scenario_id,scenario_name,description,class,primary_use
+S00,Normal operations,"Routine vendor access, normal OT commands, expected network traffic and maintenance.",Normal,Baseline generation
+S01,Compromised vendor account,"Vendor account used outside normal hours with failed/absent MFA, new device, endpoint remote tool, OT commands and cargo change.",Incident,Cross-source correlation
+S02,Unauthorized OT command sequence,Unexpected PLC/crane command sequence associated with unusual remote access and network connection.,Incident,OT anomaly + timeline
+S03,Remote administration and data transfer,Suspicious remote administration activity followed by unusual outbound traffic and physical access to restricted OT zone.,Incident,Network + endpoint + physical correlation
+S04,Cargo/manifest manipulation,Anomalous access coincides with a manifest destination change and maintenance/security notes.,Incident,Cargo integrity analytics
