@@ -1,0 +1,10 @@
+control,effectiveness_adjustment,expected_risk_index,risk_reduction_vs_baseline_pct
+MFA + session restrictions,-20%,14.974920000000001,56.48153906511093
+MFA + session restrictions,+0%,11.099562500000001,67.74367562226645
+MFA + session restrictions,+20%,7.57657,77.9818078784092
+Network segmentation,-20%,17.59248,48.874674881213586
+Network segmentation,+0%,14.26325,58.54971592973075
+Network segmentation,+20%,11.243079999999999,67.32660089216954
+Enhanced monitoring,-20%,21.85176,36.49682509699075
+Enhanced monitoring,+0%,19.214,44.16239229305009
+Enhanced monitoring,+20%,16.73596,51.36379884047021

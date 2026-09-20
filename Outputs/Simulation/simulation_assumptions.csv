@@ -1,0 +1,8 @@
+assumption,value
+Baseline incident frequency,One observed synthetic incident per scenario in the 30-day dataset; Poisson lambda=1.0
+Risk weights,"S01=8, S02=10, S03=9, S04=7; analytical scale only"
+MFA/session restriction effectiveness,65% occurrence reduction; 25% impact reduction before scenario modifiers
+Network segmentation effectiveness,45% occurrence reduction; 50% impact reduction before scenario modifiers
+Enhanced monitoring effectiveness,20% occurrence reduction; 55% impact reduction before scenario modifiers
+Continuity multipliers,"MFA=1.10, segmentation=1.25, monitoring=1.05"
+Simulation iterations,"10,000 Monte Carlo iterations with seed 210821"

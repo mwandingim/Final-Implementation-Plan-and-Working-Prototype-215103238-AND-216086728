@@ -1,0 +1,17 @@
+control,scenario_id,scenario_name,expected_events_30d,impact_factor,expected_risk_index
+Baseline,S01,Compromised vendor account,1.0,1.0,8.0
+Baseline,S02,Unauthorized OT command sequence,1.0,1.0,10.0
+Baseline,S03,Remote administration and data transfer,1.0,1.0,9.0
+Baseline,S04,Cargo/manifest manipulation,1.0,1.0,7.0
+MFA + session restrictions,S01,Compromised vendor account,0.35,0.775,2.17
+MFA + session restrictions,S02,Unauthorized OT command sequence,0.5125,0.8,4.1000000000000005
+MFA + session restrictions,S03,Remote administration and data transfer,0.35,0.7625,2.401875
+MFA + session restrictions,S04,Cargo/manifest manipulation,0.4475,0.775,2.4276875
+Network segmentation,S01,Compromised vendor account,0.7525,0.6,3.6119999999999997
+Network segmentation,S02,Unauthorized OT command sequence,0.55,0.775,4.2625
+Network segmentation,S03,Remote administration and data transfer,0.55,0.725,3.58875
+Network segmentation,S04,Cargo/manifest manipulation,0.6399999999999999,0.625,2.8
+Enhanced monitoring,S01,Compromised vendor account,0.8,0.6975,4.464
+Enhanced monitoring,S02,Unauthorized OT command sequence,0.8,0.6975,5.58
+Enhanced monitoring,S03,Remote administration and data transfer,0.8,0.7525,5.418
+Enhanced monitoring,S04,Cargo/manifest manipulation,0.8,0.6699999999999999,3.752
