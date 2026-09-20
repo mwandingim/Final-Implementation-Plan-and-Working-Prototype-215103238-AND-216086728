@@ -1,0 +1,10 @@
+event_id,scenario,description,original_probability,manipulated_probability,delta,risk_class_original,risk_class_manipulated
+VPN-01652,A_feature_masking,"Set off-hours, new-device and MFA indicators to normal-looking values while retaining other fields.",0.8987010411863166,0.07882657666422781,-0.8198744645220888,HIGH_RISK,LOW_RISK
+VPN-01652,B_context_substitution,Replace access context and authentication state with a common benign-looking context.,0.8987010411863166,0.8531460233725605,-0.04555501781375604,HIGH_RISK,HIGH_RISK
+VPN-01652,C_history_dilution,Suppress prior 24-hour behavioural history to test dependence on historical context.,0.8987010411863166,0.8987010411863166,0.0,HIGH_RISK,HIGH_RISK
+VPN-00419,A_feature_masking,"Set off-hours, new-device and MFA indicators to normal-looking values while retaining other fields.",0.8932591245080697,0.28855385017588064,-0.604705274332189,HIGH_RISK,LOW_RISK
+VPN-00419,B_context_substitution,Replace access context and authentication state with a common benign-looking context.,0.8932591245080697,0.8334541713508602,-0.05980495315720946,HIGH_RISK,HIGH_RISK
+VPN-00419,C_history_dilution,Suppress prior 24-hour behavioural history to test dependence on historical context.,0.8932591245080697,0.9019878922868565,0.008728767778786839,HIGH_RISK,HIGH_RISK
+VPN-01421,A_feature_masking,"Set off-hours, new-device and MFA indicators to normal-looking values while retaining other fields.",0.8886680487010703,0.03371990971797904,-0.8549481389830913,HIGH_RISK,LOW_RISK
+VPN-01421,B_context_substitution,Replace access context and authentication state with a common benign-looking context.,0.8886680487010703,0.8463192577881234,-0.042348790912946854,HIGH_RISK,HIGH_RISK
+VPN-01421,C_history_dilution,Suppress prior 24-hour behavioural history to test dependence on historical context.,0.8886680487010703,0.8886680487010703,0.0,HIGH_RISK,HIGH_RISK

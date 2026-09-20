@@ -1,0 +1,6 @@
+check,status,detail
+Chronological split,PASS,1260 train / 540 test rows; test follows training period
+Prior-history leakage control,PASS,Rolling features use only records earlier than the scored session
+Adversarial cases,PASS,3 synthetic feature-manipulation cases evaluated
+Risk threshold,PASS,0.50 probability threshold used consistently
+Synthetic-only testing,PASS,No live system or operational endpoint was tested
