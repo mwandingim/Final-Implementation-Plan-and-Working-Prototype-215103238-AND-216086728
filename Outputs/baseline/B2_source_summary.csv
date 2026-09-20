@@ -1,0 +1,8 @@
+source,records,suspicious_or_incident,non_normal_rate_pct
+Vendor VPN/IAM,1800,106,5.888888888888888
+OT/SCADA/crane,2016,113,5.60515873015873
+Network flows,2200,160,7.2727272727272725
+Endpoint alerts,1200,96,8.0
+Cargo/manifest,1204,44,3.6544850498338874
+Physical access,1004,58,5.776892430278884
+Maintenance notes,304,68,22.36842105263158
