@@ -1,0 +1,8 @@
+source,entity,observed_evidence,interpretation
+VPN/IAM,V014 / ACC0014 / DEV0099,"Off-hours sessions, new device, failed/absent MFA indicators and OT-zone access",Supports unauthorized use of a vendor account.
+Endpoint,DEV0099,Remote administration / PLC / credential-helper simulated tools and critical alerts,Corroborates unusual activity on the same device.
+OT/SCADA,CRANE03,"PLC mode change, unauthorized command, emergency stop; invalid sequence",Shows operational/OT impact during the correlated window.
+Network,DEV0099,"Unusual OT connections, remote administration activity and large outbound transfer alerts",Corroborates network-level abnormality.
+Physical access,BADGE-0014,Vendor badge granted entry to OT-ZONE at 22:49 UTC,Provides physical-context evidence during the incident window.
+Cargo,CONT-004821,Manifest destination change at 22:51 UTC,Shows business-process integrity impact.
+Maintenance note,CRANE03 / V014,Cross-source proximity noted; incident review initiated,Documents analyst escalation and corroboration.

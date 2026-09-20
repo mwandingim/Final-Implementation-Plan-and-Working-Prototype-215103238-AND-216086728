@@ -1,0 +1,4 @@
+hypothesis_id,hypothesis,evidence_assessment,confidence
+H1,Legitimate maintenance activity,"Partially supported by the presence of a vendor session, but weakened by new-device/off-hours/failed-MFA indicators and invalid OT commands.",Low
+H2,Equipment fault or operator error,"Could explain individual OT alarms, but does not explain the correlated identity, endpoint, network, physical-access and cargo evidence as well.",Low–Moderate
+H3,Cyber-enabled vendor-account compromise or unauthorized use,"Supported by correlated anomalous vendor access, endpoint remote tooling, invalid OT commands, network anomalies, restricted-zone access and cargo change.",High
