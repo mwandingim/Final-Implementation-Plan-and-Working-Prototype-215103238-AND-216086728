@@ -1,0 +1,2 @@
+rows,normal,risk,train_rows,test_rows,random_seed,accuracy,precision,recall,f1,false_negative_rate,tn,fp,fn,tp
+304,236,68,212,92,210821,1.0,1.0,1.0,1.0,0.0,71,0,0,21

@@ -1,0 +1,16 @@
+note_id,timestamp,asset_id,vendor_id,category,priority,event_label,incident_id,free_text,risk_probability,predicted_risk
+NOTE-00033,2026-06-03 18:47:11+00:00,PLC01,V019,SUSPICIOUS_ACCESS,CRITICAL,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00050,2026-06-22 01:28:33+00:00,CRANE08,V012,OT_ANOMALY,CRITICAL,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00093,2026-06-06 11:18:23+00:00,PLC12,V014,OT_ANOMALY,CRITICAL,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00107,2026-06-12 03:55:00+00:00,PLC01,V019,SUSPICIOUS_ACCESS,CRITICAL,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00190,2026-06-15 23:45:51+00:00,PLC08,V013,SECURITY_REVIEW,CRITICAL,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00231,2026-06-08 16:47:31+00:00,PLC12,V006,SUSPICIOUS_ACCESS,CRITICAL,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00291,2026-06-07 07:31:49+00:00,PLC04,V003,OT_ANOMALY,CRITICAL,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00018,2026-06-09 12:15:47+00:00,PLC04,V015,SECURITY_REVIEW,HIGH,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00043,2026-06-16 13:10:12+00:00,PLC09,V001,SUSPICIOUS_ACCESS,HIGH,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00060,2026-06-19 22:49:21+00:00,YARD-06,V017,SUSPICIOUS_ACCESS,HIGH,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00064,2026-06-29 23:31:05+00:00,PLC08,V007,CARGO_ANOMALY,HIGH,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00078,2026-06-03 17:46:36+00:00,YARD-03,V014,OT_ANOMALY,HIGH,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00098,2026-06-24 16:38:00+00:00,CRANE06,V014,SECURITY_REVIEW,HIGH,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00104,2026-06-25 14:39:22+00:00,CRANE04,V006,SUSPICIOUS_ACCESS,HIGH,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
+NOTE-00135,2026-06-09 06:11:51+00:00,CRANE07,V005,SUSPICIOUS_ACCESS,HIGH,SUSPICIOUS,,Unexpected vendor remote session observed outside the approved maintenance window.,0.9142843925014429,1
