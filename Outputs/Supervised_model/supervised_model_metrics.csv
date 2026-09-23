@@ -1,2 +1,0 @@
-train_rows,test_rows,positive_rate_train,positive_rate_test,accuracy,precision,recall,f1_score,false_negative_rate,threshold,true_negative,false_positive,false_negative,true_positive,random_seed
-1260,540,0.05873015873015873,0.05925925925925926,0.9851851851851852,0.9615384615384616,0.78125,0.8620689655172413,0.21875,0.5,507,1,7,25,210821

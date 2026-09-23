@@ -1,5 +1,0 @@
-incident_id,scenario,start_utc,end_utc,event_count,sources,incident_label_events,suspicious_events
-INC-T21-001,S01 – Compromised vendor account,2026-06-05T22:38:00+00:00,2026-06-05T22:59:00+00:00,37,"Cargo, Endpoint, Maintenance notes, Network, OT/SCADA, Physical access, VPN/IAM",7,30
-INC-T21-002,S02 – Unauthorized OT command sequence,2026-06-12T01:15:00+00:00,2026-06-12T01:34:00+00:00,37,"Cargo, Endpoint, Maintenance notes, Network, OT/SCADA, Physical access, VPN/IAM",7,30
-INC-T21-003,S03 – Remote administration and data transfer,2026-06-18T23:05:00+00:00,2026-06-18T23:22:00+00:00,29,"Cargo, Endpoint, Maintenance notes, Network, OT/SCADA, Physical access, VPN/IAM",7,22
-INC-T21-004,S04 – Cargo/manifest manipulation,2026-06-24T19:31:00+00:00,2026-06-24T19:49:00+00:00,34,"Cargo, Endpoint, Maintenance notes, Network, OT/SCADA, Physical access, VPN/IAM",7,27

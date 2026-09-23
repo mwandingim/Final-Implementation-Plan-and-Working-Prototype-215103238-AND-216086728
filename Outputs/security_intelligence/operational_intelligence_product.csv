@@ -1,5 +1,0 @@
-operational_priority,entity_or_control_area,analyst_action,priority
-Immediate investigation,V014 / ACC0014 / DEV0099,"Review remote-access history, endpoint alerts and related OT/network events.",High
-OT monitoring,CRANE03,"Increase monitoring of command sequences, mode/state changes and associated remote sessions.",High
-Access control,Vendor remote access,Require verified MFA and controlled access before restoration of affected vendor connectivity.,High
-Business integrity,CONT-004821,Validate the affected manifest record and any downstream cargo-processing changes.,Medium

@@ -1,7 +1,0 @@
-indicator_type,indicator,context,source_incident,confidence
-ENTITY,V014,Vendor identity associated with the primary incident,INC-T21-001,High
-ACCOUNT,ACC0014,Vendor account associated with anomalous access,INC-T21-001,High
-DEVICE,DEV0099,Device associated with endpoint and network anomalies,INC-T21-001,High
-OT_ASSET,CRANE03,OT asset associated with invalid command sequence,INC-T21-001,High
-BADGE,BADGE-0014,Physical-access identifier observed in restricted OT zone,INC-T21-001,Medium
-CARGO,CONT-004821,Cargo record with correlated manifest change,INC-T21-001,Medium

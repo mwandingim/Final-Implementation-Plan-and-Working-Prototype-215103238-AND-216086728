@@ -1,5 +1,0 @@
-executive_topic,finding,confidence
-Risk picture,"The synthetic investigation demonstrates that identity, endpoint, OT, network, physical and cargo signals can be correlated into a single incident picture.",High
-Primary concern,INC-T21-001 combines anomalous vendor access with OT and business-process indicators in a short time window.,High
-Control implication,"Controlled vendor remote access, strong MFA, cross-source monitoring and OT-aware correlation are relevant controls for the simulated environment.",High
-Decision support,Prioritise investigation and containment where remote-access anomalies coincide with OT state/command changes or cargo integrity events.,High

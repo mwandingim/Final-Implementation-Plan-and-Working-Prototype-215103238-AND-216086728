@@ -1,6 +1,0 @@
-Measure,Result,Interpretation
-Total primary security events,9728,7 primary sources; integrated index excluded from count
-Vendor VPN/IAM suspicious rate,5.89,"5.89% of 1,800 sessions"
-Vendor individual baseline,V014,Highest non-normal rate: 13.19% (12/91)
-Peer-group baseline,NetworkVendor,Highest role rate: 6.99% (27/386)
-Temporal pattern,Off-hours / late evening,Suspicious sessions are concentrated more heavily in off-hours than normal sessions

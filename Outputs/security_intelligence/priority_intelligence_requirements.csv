@@ -1,5 +1,0 @@
-pir_id,priority_intelligence_requirement,current_answer,confidence,evidence_basis
-PIR-01,Which vendor accounts and devices require elevated investigation priority?,V014 / ACC0014 / DEV0099,High,"Supported by correlated VPN/IAM, endpoint, network and incident evidence."
-PIR-02,Which OT assets show activity correlated with anomalous remote access?,CRANE03,High,CRANE03 appears in the primary incident evidence and invalid command sequence.
-PIR-03,Do remote-access anomalies correlate with operational or business-process changes?,Yes: OT command activity and cargo-manifest change,High,Cross-source timeline shows close temporal correlation in INC-T21-001.
-PIR-04,Which indicators should be monitored after containment?,"V014, ACC0014, DEV0099, CRANE03 and related OT/network events",High,These entities recur across the primary incident evidence.

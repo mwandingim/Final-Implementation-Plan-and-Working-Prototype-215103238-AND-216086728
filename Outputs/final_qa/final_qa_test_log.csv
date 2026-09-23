@@ -1,6 +1,0 @@
-test_id,component,input_condition,expected_result,actual_result_status,status
-T01,Dataset integrity,All T21 CSV source files,"10 CSV files; 9,728 integrated events; no duplicate rows","10 CSV files; 9,728 integrated events; 0 duplicate rows",PASS
-T02,Baseline and EDA,Baseline tables and visual evidence,Required tables and 3 figures exist,6/6 required outputs exist,PASS
-T03,Security models,"Supervised, anomaly and predictive outputs",Metrics and ranking/evaluation artefacts exist,5/5 required model outputs exist,PASS
-T04,Investigation and intelligence,Correlated timeline and intelligence products,Timeline and intelligence evidence generated,4/4 files exist; timeline has 37 rows,PASS
-T05,Analyst prototype,Prototype HTML,Prototype loads and contains major analytical workflow sections,"File size 45,175 bytes; 5/5 workflow markers found",PASS

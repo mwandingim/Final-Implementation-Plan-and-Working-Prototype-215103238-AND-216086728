@@ -1,6 +1,0 @@
-test_id,test,pass,observed
-T12,PIRs documented,True,4
-T13,Operational indicators documented,True,6
-T14,ICS enrichment documented with limitations,True,5
-T15,Operational and executive intelligence products created,True,4 / 4
-T16,Feedback loop documented,True,4

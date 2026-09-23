@@ -1,7 +1,0 @@
-phase,response_action,purpose
-Containment,Temporarily suspend the affected vendor account ACC0014 and isolate DEV0099 from OT-connected services.,Limit further unauthorized access while preserving evidence.
-Containment,Restrict remote vendor access to the affected OT zone and require verified MFA before reactivation.,Reduce recurrence risk while maintaining controlled vendor support.
-Eradication,Review and remove unauthorized remote/administrative tooling represented in endpoint alerts; rotate affected access credentials in the simulation.,Remove the simulated persistence/access path.
-Recovery,Validate CRANE03 operating state and review the affected cargo manifest record before returning affected functions to normal operation.,Restore safe and trusted operational state.
-Monitoring,Increase monitoring of V014/ACC0014/DEV0099 and correlated OT/network events after recovery.,Detect recurrence or residual abnormal behaviour.
-Lessons learned,"Tune cross-source correlation rules to combine identity, endpoint, OT, network, physical and cargo signals.",Improve earlier detection of multi-stage events.
